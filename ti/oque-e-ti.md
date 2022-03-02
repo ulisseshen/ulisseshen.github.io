@@ -9,6 +9,7 @@ A TI está na vida das pessoas por meio dos computadores portáteis, computador 
 
 ### Qual o papel da TI nas Organicações?
 
+Auxilia predominantemente em áreas de nogócios de quase todos os segmentos atuais. Para uma empresa do ramo financeiro o uso da TI é visto nas transações bancarias, na facilitação que uma aplicação para o cliente pode ser possível, por exemplo, criar uma conta, fazer transferências, fazer pagamentos. Isso sem sair de casa e com o uso de um smartphone. Há ainda o uso de Inteligência Artificial pelas organizações para ajudar em tomadas de decisões de negócio baseada em varios parâmetros, uma vez que esse serviço geralmente é repetitivo e então é usado sistemas computacionais para deminiur ou o trabalho ou o número de falhas, ou ainda os dois.
 ----
 
 ### O que foi a Terceira revolução industrial?
