@@ -41,11 +41,19 @@ Surgiram novos meios de comunicação e aprimoram-se os antigos; criaram-se nova
 ## Como este período contribuiu para a evolução da TI e para o que a TI representa hoje no mundo dos negócios e na vida das pessoas? 
 
 
+A Terceira Revolução Industrial, além de ter elevado a produção, fez com que esta fosse realizada em menos tempo e em maior escala, mudou também a relação entre as pessoas no mundo todo. As tecnologias inseridas, e que passaram a estar ao alcance da população, modificaram as formas de comunicação. As informações passaram a ser difundidas instantaneamente, alcançando pessoas do mundo todo. O rompimento de barreiras físicas e essa interligação social, econômica, política e cultural ficaram conhecidos como globalização.
 
+![image](globalizacao.png)  
 
+As invenções criadas nesse período modificaram o campo científico, transformando a medicina por meio da genética, com a criação de medicamentos, novas formas de prevenção, novos tratamentos e novos instrumentos utilizados em laboratórios. Computadores, softwares, o aprimoramento da internet, chips e outros produtos eletrônicos facilitaram a vida de milhares de pessoas e impulsionaram um grande desenvolvimento econômico.
 
+Nessa fase da Revolução Industrial, foram criadas também:
 
-
+ - Telefonia móvel
+ - Foguete de longo alcance
+ - Utilização da energia atômica
+ - Desenvolvimento da biotecnologia
+ - Criação de robôs usados nas indústrias
 
 ### Referências:
  - [Tecnologia da informação - Wikipédia](https://pt.wikipedia.org/wiki/Tecnologia_da_informa%C3%A7%C3%A3o)
