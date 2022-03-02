@@ -1,7 +1,7 @@
 ### O que é Tecnologia da Informação? 
 Trecho do wikipédia que define genericamente a pergunta: 
   Tecnologia da Informação (TI) é um conjunto de todas as atividades e soluções providas por recursos de computação que visam a produção, o armazenamento, a transmissão, o acesso, a segurança e o uso das informações. Na verdade, as aplicações para TI são tantas — e estão ligadas a tantas áreas — que há diversas definições para a expressão e nenhuma delas consegue determiná-la por completo. É, ainda, a área da informática que trata a informação, a organização e a classificação de forma a permitir a tomada de decisão em prol de algum objetivo. Fazendo uso de recursos computacionais físicos.
-  ![image](https://user-images.githubusercontent.com/15316327/156453088-a44da4a8-bf3f-4594-9613-68d1c3141ad6.png)
+  ![image](https://github.com/ulisseshen/ulisseshen.github.io/blob/main/ti/ti.png)
 
 ### Como a TI está na vida das pessoas?
 
