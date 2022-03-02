@@ -5,7 +5,9 @@ Trecho do wikipédia que define genericamente a pergunta:
 
 ### Como a TI está na vida das pessoas?
 
-### Qual o papel da TI nas Organicações
+A TI está na vida das pessoas por meio dos computadores portáteis, computador pessoal e qualquer outro produto eletrônico que resolva problemas reais envolvendo a informação por intermédio do poder computacional que esses dispositivos podem fornecer. Dentre eles podemos citar: calculadora, mp3 player, celular, netbook, notebook, smartphone, etc. O uso efetivo da TI se dá ao fazer uma soma, reproduzir um audio, fazer uma ligação, acessar sites, etc.
+
+### Qual o papel da TI nas Organicações?
 
 ----
 
