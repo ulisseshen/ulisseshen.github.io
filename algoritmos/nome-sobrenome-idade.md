@@ -4,6 +4,7 @@ O intuito desses algoritmos é demonstrar o uso de linguagens de programação d
 
 Segue exemplo em [Javascript](https://pt.wikipedia.org/wiki/JavaScript) ([Nodejs](https://pt.wikipedia.org/wiki/Node.js))
 
+
 ``` Javascript
 var nome = 'Ulisses'
 var sobrenome = 'Hen';
@@ -12,8 +13,12 @@ var idade = 29;
 console.log('Meu nome é ' + nome + ' ' + sobrenome + ' e tenho ' + idade + ' anos.');
 // exibe: Meu nome é Ulisses Hen e tenho 29 anos.
 ```
+veja online [clique aqui](http://jsfiddle.net/9ug8d7yx/1/)  
+
+
 Execução do algoritmo em js:  
 ![image](nome_sobrenome_idade.js.png)  
+
 
 examplo em [Python](https://pt.wikipedia.org/wiki/Python)
 ``` Python
