@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=Site, initial-scale=1.0">
+    <title>Site Pessoal - Ulisses Hen</title>
+    <style>
+
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            background-color: black;
+            -webkit-transition: background-color 2000ms linear;
+            -ms-transition: background-color 2000ms linear;
+            transition: background-color 2000ms linear;
+        }
+
+        
+
+        .white {
+            background-color: white;
+
+            
+        }
+
+        .box {
+            display: flex;
+            flex-direction:column;
+            align-items: center;
+            /* justify-content: center; */
+            /* height: 100vh */
+        }
+
+        .terminal{
+            margin-top: 100px;
+            height: 100px;
+            width: 100px;
+            background-color: grey;
+            -webkit-transition: width 3s, height 3s;
+            -ms-transition: width 3s, height 3s;
+            transition: width 3s, height 3s;
+        }
+
+        .expand {
+            height: 300px;
+            width: 300px;
+        }
+
+        .dot {
+            height: 10px;
+            width:10px;
+            background-color:red;
+            display: inline-block;
+            border-radius: 50%;
+        }
+
+        .terminal >.header{
+            margin-left: 10px;
+        }
+
+        .dot.close{
+            background-color:red;
+        }
+
+        .dot.minimize{
+            background-color:yellow;
+        }
+
+        .dot.expand{
+            background-color:greenyellow;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        <div class="terminal">
+            <div class="header">
+                <div class="dot close"></div>
+                <div class="dot minimize"></div>
+                <div class="dot expand"></div>
+            </div>
+            <div class="body"></div>
+        </div>
+
+    </div>
+
+</body>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        setTimeout(() => {
+            document.body.classList.add("white")
+            document.getElementsByClassName('terminal')[0].classList.add("expand");
+        }, 500);
+    })
+
+    document.body.ontransitionend = (event) => { 
+        console.log("end")
+    };
+</script>
+
+</html>
